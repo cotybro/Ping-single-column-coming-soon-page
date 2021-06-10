@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screencapture-ping-single-column-coming-soon-page-taupe-vercel-app-2021-06-10-18_42_08](https://user-images.githubusercontent.com/36529826/121610448-aec4e880-ca1b-11eb-828b-37ff52a3260b.png)
+![screencapture-127-0-0-1-59447-preview-app-index-html-2021-06-10-18_47_53](https://user-images.githubusercontent.com/36529826/121610866-9acdb680-ca1c-11eb-8327-50c6270da8e6.png)
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
