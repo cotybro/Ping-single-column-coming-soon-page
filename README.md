@@ -30,15 +30,6 @@ Users should be able to:
 
 ![screencapture-127-0-0-1-59447-preview-app-index-html-2021-06-10-18_47_53](https://user-images.githubusercontent.com/36529826/121610866-9acdb680-ca1c-11eb-8327-50c6270da8e6.png)
 
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [solution URL](https://github.com/cotybro/Ping-single-column-coming-soon-page)
